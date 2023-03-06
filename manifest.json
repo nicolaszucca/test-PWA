@@ -1,0 +1,24 @@
+{
+    "name": "mi first pwa",
+    "short_name": "first pwa",
+    "description": "Es un test para crear una PWA",
+    "theme_color": "#fff",
+    "background_color": "#000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "protocol_handlers": [
+        {
+            "protocol": "web+tea",
+            "url": "/tea?type=%s"
+        }
+    ],
+    "icons": [
+        {
+            "src": "https://rinconcardenas.com/wp-content/uploads/2017/03/cropped-favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
