@@ -7,13 +7,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": ".",
-    "start_url": "/",
-    "protocol_handlers": [
-        {
-            "protocol": "web+tea",
-            "url": "/tea?type=%s"
-        }
-    ],
+    "start_url": "https://nicolaszucca.github.io/test-PWA/",
     "icons": [
         {
             "src": "https://rinconcardenas.com/wp-content/uploads/2017/03/cropped-favicon.png",
