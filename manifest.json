@@ -6,7 +6,7 @@
     "background_color": "#000",
     "display": "standalone",
     "orientation": "portrait",
-    "start_url": "https://nicolaszucca.github.io/test-PWA/index.html",
+    "start_url": "/",
     "icons": [
         {
             "src": "https://rinconcardenas.com/wp-content/uploads/2017/03/cropped-favicon.png",
